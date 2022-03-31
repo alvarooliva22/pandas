@@ -1,4 +1,4 @@
-country_number,country_name,country_iso,commodity_code,commodity_description,trade_flows,trade_value2000,trade_value2001,trade_value2002,trade_value2003,trade_value2004,trade_value2005,trade_value2006,trade_value2007,trade_value2008,trade_value2009,trade_value2010,trade_value2011,trade_value2012,trade_value2013,trade_value2014,trade_value2015,trade_value2016,trade_value2017,trade_value2018,trade_value2019,trade_value2020
+country_number,country_name,country_iso,commodity_code,commodity_description,trade_flows,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
 8,Albania,ALB,01,Live animals,Export,31194,156509,,35303,769695,954684,1063300,,,520743,609694,997424,901216,846588,741953,716688,671941,770370,680328,537970,509455
 12,Algeria,DZA,01,Live animals,Export,,,11075,,18751,60287,44550,865,52969,4853,4396,,153141,14163,20466,86724,126400,44056,,,
 20,Andorra,AND,01,Live animals,Export,286632,136830,120732,131704,179221,141496,170769,116615,176892,120983,93535,68199,37858,60297,200316,76386,61337,71136,34167,,
